@@ -7,6 +7,6 @@ Aqui você encontrará todas as soluções dos exercícios propostos durante o p
 ### Assuntos abordados:
 
 - [JavaScript](Modulo1/)
-- Java
+- [Java](Modulo2/)
 - Orientação a Objetos
 - Processos
