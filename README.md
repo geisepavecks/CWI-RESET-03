@@ -8,5 +8,5 @@ Aqui você encontrará todas as soluções dos exercícios propostos durante o p
 
 - [JavaScript](Modulo1/)
 - [Java](Modulo2/)
-- Orientação a Objetos
+- [Orientação a Objetos](Modulo3/src/exercicio/mario)
 - Processos
