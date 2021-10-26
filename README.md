@@ -2,7 +2,7 @@
 
 Meu primeiro repositório! 
 
-Aqui você encontrará todas as soluções dos exercícios propostos durante o processo seletivo RESET, edição 3, da CWI.
+Aqui você encontrará todas as soluções dos exercícios propostos durante o LVL 1 do processo seletivo/capacitação RESET, edição 3, da CWI.
 
 ### Assuntos abordados:
 
